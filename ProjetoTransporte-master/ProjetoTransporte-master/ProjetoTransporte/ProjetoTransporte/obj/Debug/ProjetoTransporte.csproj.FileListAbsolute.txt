@@ -1,0 +1,12 @@
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoTransporte\ProjetoTransporte\bin\Debug\ProjetoTransporte.exe.config
+C:\Users\aluno\Desktop\Projeto-Transporte-master\Projeto-Transporte-master\ProjetoTransporte\bin\Debug\ProjetoTransporte.exe.config
+C:\Users\Kadu\Downloads\Trabalhos Praticos\Projeto-Transporte-master\ProjetoTransporte\obj\Debug\ProjetoTransporte.csprojAssemblyReference.cache
+C:\Users\Kadu\Downloads\Trabalhos Praticos\Projeto-Transporte-master\ProjetoTransporte\obj\Debug\ProjetoTransporte.Form1.resources
+C:\Users\Kadu\Downloads\Trabalhos Praticos\Projeto-Transporte-master\ProjetoTransporte\obj\Debug\ProjetoTransporte.Properties.Resources.resources
+C:\Users\Kadu\Downloads\Trabalhos Praticos\Projeto-Transporte-master\ProjetoTransporte\obj\Debug\ProjetoTransporte.csproj.GenerateResource.cache
+C:\Users\Kadu\Downloads\Trabalhos Praticos\Projeto-Transporte-master\ProjetoTransporte\obj\Debug\ProjetoTransporte.csproj.CoreCompileInputs.cache
+C:\Users\Kadu\Downloads\Trabalhos Praticos\Projeto-Transporte-master\ProjetoTransporte\bin\Debug\ProjetoTransporte.exe.config
+C:\Users\Kadu\Downloads\Trabalhos Praticos\Projeto-Transporte-master\ProjetoTransporte\bin\Debug\ProjetoTransporte.exe
+C:\Users\Kadu\Downloads\Trabalhos Praticos\Projeto-Transporte-master\ProjetoTransporte\bin\Debug\ProjetoTransporte.pdb
+C:\Users\Kadu\Downloads\Trabalhos Praticos\Projeto-Transporte-master\ProjetoTransporte\obj\Debug\ProjetoTransporte.exe
+C:\Users\Kadu\Downloads\Trabalhos Praticos\Projeto-Transporte-master\ProjetoTransporte\obj\Debug\ProjetoTransporte.pdb
